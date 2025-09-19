@@ -19,8 +19,8 @@
 
 Название | Описание | Стек технологий
 -------- | ----------- | --------
-[**Table Reservation (API)**](https://github.com/Natalia-Epifanova/Table_reservation) | **Система бронирования столиков в ресторане.** | **Django**, PostgreSQL, Bootstrap, Docker
+[**Table Reservation**](https://github.com/Natalia-Epifanova/Table_reservation) | **Система бронирования столиков в ресторане.** | **Django**, PostgreSQL, Bootstrap, Docker
 [**Mailing Service**](https://github.com/Natalia-Epifanova/mailing_service) | **Сервис управления email-рассылками.** | **Django**, **Django REST Framework**, Redis, PostgreSQL, Docker
-[**The Habits Tracker**](https://github.com/Natalia-Epifanova/The_habits_project) | **Backend для трекера полезных привычек.** | **Django**, **Django REST Framework**, Celery, Telegram Bot API, PostgreSQL, Pytest, Redis
+[**The Habits Project**](https://github.com/Natalia-Epifanova/The_habits_project) | **Backend для трекера полезных привычек.** | **Django**, **Django REST Framework**, Celery, Telegram Bot API, PostgreSQL, Pytest, Redis
 
 > 🔍 **Больше моих работ можно найти в [моих репозиториях](https://github.com/Natalia-Epifanova?tab=repositories).**
