@@ -17,12 +17,6 @@
 
 ## 📂 Проекты
 
-| Название | Описание | Стек |
-|----------|----------|------|
-| [go-url-shortener](https://github.com/username/go-url-shortener) | Сервис сокращения ссылок | Go, PostgreSQL, Docker |
-| [todo-api](https://github.com/username/todo-api) | REST API для задач | Go, Fiber, GORM |
-| [go-exercises](https://github.com/username/go-exercises) | Практика и мелкие задания | Go |
-
 Название | Описание | Стек технологий
 -------- | ----------- | --------
 [**Table Reservation (API)**](https://github.com/Natalia-Epifanova/Table_reservation) | **Система бронирования столиков в ресторане.** | **Django**, PostgreSQL, Bootstrap, Docker
